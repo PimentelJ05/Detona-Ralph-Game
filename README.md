@@ -17,7 +17,7 @@ Click on him as fast as possible before he disappears to score points! But watch
 
 📱 Responsive Design: Works across all screen sizes to ensure a smooth gaming experience.
 
-# How to Play 💻
+## How to Play 💻
 Simply click the link below to play the game directly in your browser. No installations required!
 
 👉 [Play Detona Ralph Game Now!](https://detonaplay.netlify.app/)
